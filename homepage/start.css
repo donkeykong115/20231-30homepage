@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to top,
+    #fcc5e4 0%,
+    #fda34b 25%,
+    #ff7882 50%,
+    #c8699e 75%,
+    #7046aa 100%)
+}
+
+h1{
+    text-align: center;
+    color: cyan;
+}
+
+.image{
+    text-align: center;
+}
+
+#image{
+    width: 650px;
+    height: auto;
+}
+
+h4{
+    text-align: center;
+}
+
+#text{
+    text-align: center;
+    color: springgreen;
+}
+
+.ars{
+    text-align: center;
+}
+
+#ars{
+    width: 250px;
+    height: auto;
+}
+
+.link:link{
+    color: aqua;
+}
+
+.link:visited{
+    color: blueviolet;
+}
+
+.link:hover{
+    color: rgba(6, 212, 33, 0.685);
+}
+
+.link:focus{
+    color: powderblue;
+}
+
+#guti{
+    font-size: xx-small;
+}
+
+#hosikawa{
+    width: 400px;
+    height: auto;
+}
+
+#river{
+    width: 400px;
+    height: auto;
+}
+
+#hosiriver{
+    width: 400px;
+    height: auto;
+}
+
+#city{
+    width: 400px;
+    height: auto;
+}
+
+.fixed{
+    position: fixed;
+    color: blueviolet;
+    font-size: 20px;
+    bottom: 10px;
+    right: 10px;
+}
